@@ -6,7 +6,7 @@ This is a simple website that showcases three delicious recipes using only HTML.
 - lasagna.html, pizza.html, and fettucine.html: The individual recipe pages that show how to make each recipe.
 
 ## How to use
-1. Open the index.html file in your web browser.
+1. Open the following link (https://vishnu123r.github.io/recipe_website/) in your web browser.
 2. Click on one of the recipe links to navigate to the corresponding recipe page.
 3. Follow the step-by-step instructions on the recipe page to make the recipe.
 
